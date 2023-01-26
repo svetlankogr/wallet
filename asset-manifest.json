@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wallet/static/css/main.598570ec.css",
-    "main.js": "/wallet/static/js/main.f01b18cd.js",
+    "main.js": "/wallet/static/js/main.97487090.js",
     "static/media/Circe-Bold.woff": "/wallet/static/media/Circe-Bold.fca9743700608e1abf6a.woff",
     "static/media/Circe-Regular.woff": "/wallet/static/media/Circe-Regular.a5168fcec068fa77220a.woff",
     "static/media/Poppins-Regular.woff": "/wallet/static/media/Poppins-Regular.9b9d9585fc27c8fff554.woff",
     "index.html": "/wallet/index.html",
     "main.598570ec.css.map": "/wallet/static/css/main.598570ec.css.map",
-    "main.f01b18cd.js.map": "/wallet/static/js/main.f01b18cd.js.map"
+    "main.97487090.js.map": "/wallet/static/js/main.97487090.js.map"
   },
   "entrypoints": [
     "static/css/main.598570ec.css",
-    "static/js/main.f01b18cd.js"
+    "static/js/main.97487090.js"
   ]
 }
